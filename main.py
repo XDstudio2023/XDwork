@@ -9,13 +9,13 @@ root.geometry('391x386')
 
 def b1s():
     messagebox.showinfo('info','Excel启动成功')
-    os.system('lnk\Excel.lnk')
+    os.system('Excel.lnk')
 def b2s():
     messagebox.showinfo('info','PowerPoint启动成功')
-    os.system('lnk\PowerPoint.lnk')
+    os.system('PowerPoint.lnk')
 def b3s():
     messagebox.showinfo('info','Word启动成功')
-    os.system('lnk\Word.lnk')
+    os.system('Word.lnk')
 def b4s():
     messagebox.showinfo('info','操作成功！')
     os.system('kms.exe')
